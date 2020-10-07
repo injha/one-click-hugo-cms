@@ -1,4 +1,11 @@
-<h2>[What is the usual resting heart rate for runners?](http://stage.local/what-is-the-usual-resting-heart-rate-for-runners/)</h2>
+---
+title: Normal heart rate for runners
+date: 2020-10-04T15:04:10.000Z
+description: >-
+  Normal value for heart rate is defined as 60-100 beats per minute with anything lower than 60 being bradycardia. These figures can be said to apply to normal people having sedentary or moderate activity lifestyles. However amongst runners a resting heart rate of less than 60 per minute is quite common
+image: /img/blog-chemex.jpg
+---
+<h2>[What is the usual resting heart rate for runners?](http://tavishi.in/what-is-the-usual-resting-heart-rate-for-runners/)</h2>
 
 
 <h3>What is resting heart rate?</h3>
